@@ -1,5 +1,5 @@
 <h1 align="center">
-     <img alt="foodfy-v2" title="#foodfy-v2" src="./github-assets/capa.png">
+     <img alt="foodfy-v2" title="#foodfy-v2" src="./github-assets/capa.png" width="700px">
 </h1>
 
 <h4 align="center"> 
