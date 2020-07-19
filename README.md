@@ -86,10 +86,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode][vsco
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/paulobeckman/rocketseat-courses-v2.git
+$ git clone https://github.com/paulobeckman/Foodfy-v2.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd rocketseat-courses-v2
+$ cd Foodfy-v2
 
 # Instale as dependências
 $ npm install
